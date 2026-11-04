@@ -4,3 +4,5 @@ rice
 chicken
 orange juice 
 coffee
+orange 
+tea
